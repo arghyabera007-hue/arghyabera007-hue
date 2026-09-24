@@ -5,16 +5,11 @@
 ## 🌐 Socials:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@arghyabera007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@arghyabera007" height="30" width="40" /></a>
-  <br>
-<a href="https://linkedin.com/in/arghya bera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arghya bera" height="30" width="40" /></a>
-  <br>
-<a href="https://fb.com/arghya bera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arghya bera" height="30" width="40" /></a>
-  <br>
-<a href="https://instagram.com/@imarghya__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@imarghya__" height="30" width="40" /></a>
-  <br>
-<a href="https://www.leetcode.com/arghya007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arghya007" height="30" width="40" /></a>
-  <br>
+<a href="https://twitter.com/@arghyabera007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@arghyabera007" height="30" width="40" /></a><br>
+<a href="https://linkedin.com/in/arghya bera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arghya bera" height="30" width="40" /></a><br>
+<a href="https://fb.com/arghya bera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arghya bera" height="30" width="40" /></a><br>
+<a href="https://instagram.com/@imarghya__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@imarghya__" height="30" width="40" /></a><br>
+<a href="https://www.leetcode.com/arghya007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arghya007" height="30" width="40" /></a><br>
 <a href="https://discord.gg/Phoenix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Phoenix" height="30" width="40" /></a>
 </p>
 
