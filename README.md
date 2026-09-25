@@ -55,6 +55,7 @@
       <img src="https://streak-stats.demolab.com/?user=arghyabera007-hue&theme=blue_navy&hide_border=false" alt="GitHub Streak" />
     </td>
     <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arghyabera007-hue&theme=tokyonight" alt="GitHub Profile Details" />
     </td>
   </tr>
 </table>
