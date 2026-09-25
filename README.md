@@ -41,29 +41,25 @@
 </p>
 
 # 📊 GitHub Stats:
-# 📊 GitHub Stats:
 
 <p align="center">
-  <a href="https://github.com/arghyabera007-hue">
-    <img
-      width="32%"
-      src="https://github-readme-stats.vercel.app/api?username=arghyabera007-hue&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true"
-      alt="GitHub Stats"
-    />
-  </a>
-  <a href="https://github.com/arghyabera007-hue">
-    <img
-      width="32%"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=arghyabera007-hue&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-      alt="Top Languages"
-    />
-  </a>
-  <a href="https://github.com/arghyabera007-hue">
-    <img
-      width="32%"
-      src="https://streak-stats.demolab.com/?user=arghyabera007-hue&theme=blue_navy&hide_border=false"
-      alt="GitHub Streak"
-    />
-  </a>
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=arghyabera007-hue&show_icons=true&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true"
+    alt="GitHub Stats"
+  />
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=arghyabera007-hue&theme=blue_navy&hide_border=false&layout=compact&langs_count=8"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="60%"
+    src="https://streak-stats.demolab.com/?user=arghyabera007-hue&theme=blue_navy&hide_border=false"
+    alt="GitHub Streak"
+  />
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
