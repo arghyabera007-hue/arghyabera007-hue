@@ -44,23 +44,40 @@
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arghyabera007-hue&theme=tokyonight"
-    alt="GitHub Statistics"
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=arghyabera007-hue&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    alt="GitHub Stats"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arghyabera007-hue&theme=tokyonight"
-    alt="Programming Languages"
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=arghyabera007-hue&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arghyabera007-hue&theme=tokyonight"
-    alt="Most Used Languages"
+    height="180"
+    src="https://streak-stats.demolab.com/?user=arghyabera007-hue&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arghyabera007-hue&theme=tokyonight"
-    alt="GitHub Profile Details"
+    height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arghyabera007-hue&theme=tokyonight"
+    alt="GitHub Statistics"
+  />
+</p>
+
+<p align="center">
+  <img
+    height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arghyabera007-hue&theme=tokyonight"
+    alt="Programming Languages"
+  />
+  <img
+    height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arghyabera007-hue&theme=tokyonight"
+    alt="Most Used Languages"
   />
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
