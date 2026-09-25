@@ -1,8 +1,8 @@
 <h1 align="center">Hello, I am Arghya Bera</h1>
 
-<h3 align="center">
+<p align="center">
 I'm a passionate full-stack developer, currently pursuing my college degree in computer science. I love building real-world projects that solve meaningful problems, from web apps to AI-powered tools. I'm constantly exploring the world of AI and ML integration. I enjoy turning complex ideas into clean, functional code. Whether it's a hackathon project or a personal portfolio build, I give it my best. I believe in learning by doing — every project teaches me something new. I'm comfortable working across the stack, from designing REST APIs to training deep learning models. Collaboration, curiosity, and consistency are the three things that drive me. I'm always open to connecting with like-minded developers and contributors. Let's build something amazing together.
-</h3>
+</p>
 
 ---
 
