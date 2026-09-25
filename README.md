@@ -40,6 +40,12 @@
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
 </p>
 
+# 📊 GitHub Stats:
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arghyabera007-hue&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=arghyabera007-hue&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arghyabera007-hue&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
