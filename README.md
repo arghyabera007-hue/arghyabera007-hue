@@ -46,10 +46,11 @@
     <td width="50%">
       <img src="https://github-readme-stats.shion.dev/api?username=arghyabera007-hue&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=arghyabera007-hue&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+    <td width="50%" align="center">
+      <img width="90%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=arghyabera007-hue&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
     </td>
   </tr>
+
   <tr>
     <td width="50%">
       <img src="https://streak-stats.demolab.com/?user=arghyabera007-hue&theme=blue_navy&hide_border=false" alt="GitHub Streak" />
