@@ -4,7 +4,7 @@
 I'm a passionate full-stack developer, currently pursuing my college degree in computer science. I love building real-world projects that solve meaningful problems, from web apps to AI-powered tools. I'm constantly exploring the world of AI and ML integration. I enjoy turning complex ideas into clean, functional code. Whether it's a hackathon project or a personal portfolio build, I give it my best. I believe in learning by doing every project teaches me something new. I'm comfortable working across the stack, from designing REST APIs to training deep learning models. Collaboration, curiosity, and consistency are the three things that drive me. I'm always open to connecting with like-minded developers and contributors. Let's build something amazing together.
 </p>
 
----
+
 
 <h1 align="left">Connect with me</h1>
 
@@ -17,7 +17,7 @@ I'm a passionate full-stack developer, currently pursuing my college degree in c
 <a href="https://discord.gg/Phoenix" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Phoenix" height="30" width="40"></a>
 </p>
 
----
+
 
 <h1 align="left">Skill</h1>
 
@@ -40,7 +40,7 @@ I'm a passionate full-stack developer, currently pursuing my college degree in c
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
 </p>
 
----
+
 
 <h1 align="left">GitHub Stats</h1>
 
