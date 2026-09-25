@@ -3,7 +3,7 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :</h3>
 
 <p align="left">
 <a href="https://linkedin.com/in/arghya bera" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arghya bera" height="30" width="40"></a>&nbsp;&nbsp;
@@ -18,7 +18,7 @@
 
 
 
-<h3 align="left">Skill:</h3>
+<h3 align="left">Skill :</h3>
 
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>&nbsp;&nbsp;
@@ -39,7 +39,7 @@
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
 </p>
 
- GitHub Stats:
+ GitHub Stats :
 <table>
   <tr>
     <td width="50%">
