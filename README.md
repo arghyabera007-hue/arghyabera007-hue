@@ -1,8 +1,12 @@
-<h1 align="center">Hello i am Arghya Bera</h1>
-<h3 align="center">I'm a passionate full-stack developer, currently pursuing my college degree in computer science. I love building real-world projects that solve meaningful problems, from web apps to AI-powered tools. I'm constantly exploring the world of AI and ML integration. I enjoy turning complex ideas into clean, functional code. Whether it's a hackathon project or a personal portfolio build, I give it my best. I believe in learning by doing — every project teaches me something new. I'm comfortable working across the stack, from designing REST APIs to training deep learning models. Collaboration, curiosity, and consistency are the three things that drive me. I'm always open to connecting with like-minded developers and contributors. Let's build something amazing together.</h3>
+<h1 align="center">Hello, I am Arghya Bera</h1>
 
+<h3 align="center">
+I'm a passionate full-stack developer, currently pursuing my college degree in computer science. I love building real-world projects that solve meaningful problems, from web apps to AI-powered tools. I'm constantly exploring the world of AI and ML integration. I enjoy turning complex ideas into clean, functional code. Whether it's a hackathon project or a personal portfolio build, I give it my best. I believe in learning by doing — every project teaches me something new. I'm comfortable working across the stack, from designing REST APIs to training deep learning models. Collaboration, curiosity, and consistency are the three things that drive me. I'm always open to connecting with like-minded developers and contributors. Let's build something amazing together.
+</h3>
 
-<h3 align="left">Connect with me :</h3>
+---
+
+<h3 align="left">Connect with me</h3>
 
 <p align="left">
 <a href="https://linkedin.com/in/arghya bera" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arghya bera" height="30" width="40"></a>&nbsp;&nbsp;
@@ -15,7 +19,7 @@
 
 ---
 
-<h3 align="left">Skill :</h3>
+<h3 align="left">Skill</h3>
 
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>&nbsp;&nbsp;
@@ -38,7 +42,7 @@
 
 ---
 
-<h3 align="left">GitHub Stats :</h3>
+<h3 align="left">GitHub Stats</h3>
 
 <table>
   <tr>
