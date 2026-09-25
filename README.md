@@ -41,43 +41,29 @@
 </p>
 
 # 📊 GitHub Stats:
+# 📊 GitHub Stats:
 
 <p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=arghyabera007-hue&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    alt="GitHub Stats"
-  />
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=arghyabera007-hue&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    height="180"
-    src="https://streak-stats.demolab.com/?user=arghyabera007-hue&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-  <img
-    height="180"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arghyabera007-hue&theme=tokyonight"
-    alt="GitHub Statistics"
-  />
-</p>
-
-<p align="center">
-  <img
-    height="180"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arghyabera007-hue&theme=tokyonight"
-    alt="Programming Languages"
-  />
-  <img
-    height="180"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arghyabera007-hue&theme=tokyonight"
-    alt="Most Used Languages"
-  />
+  <a href="https://github.com/arghyabera007-hue">
+    <img
+      width="32%"
+      src="https://github-readme-stats.vercel.app/api?username=arghyabera007-hue&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true"
+      alt="GitHub Stats"
+    />
+  </a>
+  <a href="https://github.com/arghyabera007-hue">
+    <img
+      width="32%"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=arghyabera007-hue&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+      alt="Top Languages"
+    />
+  </a>
+  <a href="https://github.com/arghyabera007-hue">
+    <img
+      width="32%"
+      src="https://streak-stats.demolab.com/?user=arghyabera007-hue&theme=blue_navy&hide_border=false"
+      alt="GitHub Streak"
+    />
+  </a>
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
