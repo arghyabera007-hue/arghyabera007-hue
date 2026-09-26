@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./assets/github-banner.png" alt="Arghya Bera" width="100%">
+  <img
+    src="https://raw.githubusercontent.com/arghyabera007-hue/arghyabera007-hue/main/assets/github-banner.png"
+    alt="Arghya Bera GitHub Banner"
+    width="100%"
+  >
 </p>
 
 
