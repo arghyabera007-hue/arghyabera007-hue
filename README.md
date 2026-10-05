@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="banner-light.png">
-  <img alt="Banner" src="banner-dark.png" width="100%">
-</picture>
+
 
 <p align="center">
 <p align="left">Hello, I am Arghya Bera</p>
